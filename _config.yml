@@ -13,7 +13,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 remote_theme : pmarsceill/just-the-docs
-title: YeEub's Blog
+title: YeEun's Blog
 description: Blog for Study
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kye8524.github.io" # the base hostname & protocol for your site, e.g. http://example.com
